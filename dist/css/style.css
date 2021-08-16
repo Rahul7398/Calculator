@@ -15,6 +15,7 @@
 	position: absolute;
 	left:20%;
 	top:20px;
+	z-index: 2;
 }
 .inputexp{
 	width:100%;
