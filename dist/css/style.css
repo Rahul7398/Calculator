@@ -15,7 +15,6 @@
 	position: absolute;
 	left:20%;
 	top:20px;
-	z-index: 2;
 }
 .inputexp{
 	width:100%;
@@ -81,7 +80,6 @@
 	overflow: scroll;
 	padding-top: 20px;
 	padding-left: 20px;
-	z-index: -1;
 }
 .history::-webkit-scrollbar {
   display: none;
